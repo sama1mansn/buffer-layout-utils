@@ -17,7 +17,7 @@
         "README.md"
     ],
     "type": "module",
-    "sideEffects": false,
+    "sideEffects": true,
     "main": "lib/cjs/index.js",
     "module": "lib/esm/index.mjs",
     "types": "lib/types/index.d.ts",
